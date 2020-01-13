@@ -22,7 +22,7 @@ render() {
       <Nav.Link className='nav-item' href="">Events</Nav.Link>
       <Nav.Link className='nav-item' href="">Catering</Nav.Link>
       <Nav.Link className='nav-item' href="">Gallery</Nav.Link>
-      <Nav.Link className='nav-item' href="">Press</Nav.Link>
+      <Nav.Link className='nav-item' href="">About Us</Nav.Link>
       <Nav.Link className='nav-item' href="">Reserve Now</Nav.Link>
     </Nav>
   </Navbar.Collapse>

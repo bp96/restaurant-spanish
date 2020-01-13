@@ -23,14 +23,14 @@ class App extends React.Component {
       </section>
       
         <section className='section-2'> 
-        <p> Due to the limited amount of tables in our restaurant, we cannot guarantee a private table. Some reservations will be sat at the bar or communal. If you prefer a table, please call or make a note and we will do our best to accommodate your request. </p>
+        <p> Non te qui existit exerci mi israel id cum proditorem, eu poenis quibusdam d putatur iusto. Usus submissionem illa ex dui ut leo mus ea quisquam. Id eos formas w zzril, montes nisl eu quam y diam hac ab tibi ea rem sunt mi suspendisse cras muneris. </p>
         </section>
 
         <section className='section-3' >
           
           <p className='description'>
-            <h3> LA MARCHA TAPAS BAR </h3> 
-            With its rustic interior, pops of bright color and welcoming atmosphere, La Marcha is a tapas bar in the heart of Berkeley that encapsulates the vibrant culinary culture of Spain. Visitors will feel as though they have strolled right off the streets of Spain and into an authentic neighborhood tapas place. 
+            <h3> ME ARDUAS EORUM SEM </h3> 
+            Nisi ita lapide lobortis, arcu in saluis uidem eum portorium occasionem, Ab Rudera ut e nobis nam si dis minus ut Gravatam ullo conferenduin est unanimi originem argenti et Autem. Suscipit ille sint ea eventu enim modo fortiaue totam tot dui patriae at Uidem nec nisl ac derelicta cooperabatur culpa class. 
           </p>
           <img className='image' src='/images/restimage2.jpg' />
         
