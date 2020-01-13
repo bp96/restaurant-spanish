@@ -1,0 +1,47 @@
+.generalNavbar {
+  background-color: rgba(0,0,0,0.5);
+}
+
+
+a.nav-item, .nav-item{
+  font-size: 1rem;
+  color: red;
+  text-transform: uppercase;
+  padding: 5px;
+  padding-left: 0px;
+}
+
+/* Change the link color to #111 (black) on hover */
+a.nav-item:hover, .nav-item:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.drop-btn, .drop-button.nav-item {
+  background-color: transparent !important;
+  border: none !important;
+  padding: none !important;
+}
+
+.dropdown .dropdown-menu{
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+}
+
+a.dropdown-item.nav-item{
+  color: white;
+  width: 100px !important;
+}
+
+.show.dropdown-menu{
+  padding: 0px;
+}
+
+.drop-btn.nav-item {
+  padding-left: 0px;
+}
+
+.drop-btn.nav-item: hover {
+  display: block;
+  background-color: red;
+}
+

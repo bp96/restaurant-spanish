@@ -1,0 +1,42 @@
+ul a.icon{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(0,0,0,0.4);
+}
+
+li {
+  float: right;
+}
+
+.nav-item{
+  font-size: 1rem;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  align-content: right;
+  text-transform: uppercase;
+  background-color: rgba(0,0,0,0.4);
+}
+
+/* Change the link color to #111 (black) on hover */
+.nav-item:hover {
+  background-color: rgba(0,0,0);
+}
+
+.dropdown-menu{
+  position: relative;
+  display: inline-block;
+
+}
+
+.dropdown-content{
+  display: none;
+
+}
+
+.dropdown-menu:hover .dropdown-content{
+  display: block;
+}
